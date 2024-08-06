@@ -1,3 +1,4 @@
+/* eslint-disable react-native/no-inline-styles */
 import {RouteProp, useNavigation, useRoute} from '@react-navigation/native';
 import React, {useEffect} from 'react';
 import {Text, View} from 'react-native';
